@@ -1,0 +1,14 @@
+Users should be able to do basic PDF tasks peculiar to common
+existing Python PDF libraries.
+
+- extract pages
+- merge PDFs
+- encrypt
+
+with simple CLI commands
+
+'pdf-tool merge file1 file2'
+
+'pdf-tool extract [start, end] filename'
+
+'pdf-tool encrypt filename'
